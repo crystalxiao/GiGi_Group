@@ -15,10 +15,26 @@
 ## Git ##
 
 
-
 ## Statistical Learning ##
 
 
+## Statistical Learning的R实现 ##
+
+基本的R资料包括两本书籍：
+
+- R语言实战：包括通常所需要的R语言实现。
+- ggplot2：包括绘图所需要的必要参考。
+
+
+对于数据预处理而言，实用的参考资料包括：
+
+- reshape2宏包：请参见本文件夹中的参考文档。
+- Data Manipulation with R：请参见本文件夹中的参考文档。
+
+对于统计学习而言，caret宏包十分适合，请参见：
+
+- caret宏包的基本用法介绍：请参见本文件夹中的参考文档。
+- caret在线学习资料：参见<http://topepo.github.io/caret/index.html>
 
 
 [1]:http://www.yangzhiping.com/tech/r-markdown-knitr.html
