@@ -1,0 +1,44 @@
+---
+output: html_document
+---
+
+
+
+# 摘要 #
+
+
+# 问题描述 #
+
+
+
+这是R Markdown模板，使用R Markdown进行写作，可以方便地转换为Word文档或者PDF文档，更多详细内容请参见<http://rmarkdown.rstudio.com>.
+
+采用R Markdown写作，可以将文档和代码整合到一起，并最终在同一个文档中输出，例如如下R代码:
+
+```{r}
+summary(cars)
+```
+
+其中汽车速度的平均值为`r mean(cars$speed)`。
+
+也可以在文档中作图，例如:
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+其中控制语句`echo = FALSE`用来控制R代码的显示与否。
+
+# 数据预处理 #
+
+
+# 描述性统计分析 #
+
+
+# 变量筛选 #
+
+
+# 模型训练 #
+
+
+# 预测模型构建及评估 #
