@@ -29,6 +29,11 @@ plot(cars)
 
 其中控制语句`echo = FALSE`用来控制R代码的显示与否。
 
+类似于Latex，在R Markdown中还可以进行公式编辑，如：
+$$ 
+y = \beta x^{2} 
+$$
+
 # 数据预处理 #
 
 
